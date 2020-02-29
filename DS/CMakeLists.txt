@@ -1,5 +1,5 @@
 set(SOURCES
-    vector.cpp
+    ds.cpp
     vector.hpp)
 
 add_library(DS ${SOURCES})
