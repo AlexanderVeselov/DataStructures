@@ -12,8 +12,7 @@ class Vector_Iterator
 public:
     Vector_Iterator(T* ptr)
         : ptr_(ptr)
-    {
-    }
+    {}
 
     T& operator*()
     {
